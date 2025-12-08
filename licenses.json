@@ -1,6 +1,9 @@
 {
-    "ABC-123-TEST": {
-        "hwid": "",
-        "expiry": 1893456000
+  "users": [
+    {
+      "key": "ABC123",
+      "hwid": "0x12ab34cd56",
+      "expire": "2025-12-30"
     }
+  ]
 }
