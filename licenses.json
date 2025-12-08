@@ -1,9 +1,7 @@
 {
-  "users": [
-    {
-      "key": "ABC123",
-      "hwid": "0x12ab34cd56",
-      "expire": "2025-12-30"
-    }
-  ]
+  "ABC-123-XYZ": {
+    "hwid": "",
+    "expiry": "2026-12-31",
+    "last_ip": ""
+  }
 }
