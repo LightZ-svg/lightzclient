@@ -6,6 +6,7 @@
     },
     "keys": [
         "admin",
-        "LIGHTZ-admin"
+        "LIGHTZ-admin",
+        "tester"
     ]
 }
